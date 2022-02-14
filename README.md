@@ -1,2 +1,2 @@
-# Is Systolic Blood Pressure Associated with Age and Smoking? A Population-based Study of American Adults
+# Is Systolic Blood Pressure Associated with Age and Smoking? A Population-Based Study of American Adults
 
