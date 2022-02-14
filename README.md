@@ -82,4 +82,4 @@ based on certain assumptions:
 4. Normality: For any fixed value of X, Y is normally distributed.
 
 
-## Read this(https://github.com/hb-racheloh/systolic_blood_pressure/blob/main/Systolic%20Blood%20Pressure%20Report.pdf)
+## [Read this](https://github.com/hb-racheloh/systolic_blood_pressure/blob/main/Systolic%20Blood%20Pressure%20Report.pdf)
