@@ -9,7 +9,9 @@ vessels. High blood pressure is defined as SBP of 130 or higher.1 It is a major 
 problem around the world and the leading risk factor for global disease burden, caused nearly
 half a million deaths in the United States in 2017.2 Therefore, it is important to know what
 causes high SBP.
-<br />
+
+\
+
 On average, SBP rises with age.3 While a certain amount of blood pressure increase is
 unavoidable as we age, blood pressure health can still be maintained by following the same
 lifestyle recommendations as younger people. However, the relationship between smoking and
