@@ -75,8 +75,8 @@ claim that SmokeNow has very little or no relationship with SBP.
 
 **Goodness of Final Model**\
 The final model fitting is just the first part of the story for regression analysis since this is all
-based on certain assumptions:\
-1. Independence: Y is independent of errors.\
-2. Linearity: The relationship between X and Y is linear.\
-3. Homoscedasticity: The variance of residual is the same for any value of X.\
+based on certain assumptions:
+1. Independence: Y is independent of errors.
+2. Linearity: The relationship between X and Y is linear.
+3. Homoscedasticity: The variance of residual is the same for any value of X.
 4. Normality: For any fixed value of X, Y is normally distributed.
