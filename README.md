@@ -47,3 +47,4 @@ Hence, the final model would only include ‘Age’ as a predictor, but we will 
 of a model including ‘SmokeNow’.
 
 **Model Validation**\
+![](https://github.com/hb-racheloh/systolic_blood_pressure/blob/main/Cross-Validation%20calibration%20with%20AIC.tiff)
