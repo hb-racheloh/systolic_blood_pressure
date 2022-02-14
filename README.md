@@ -25,3 +25,12 @@ This analysis was conducted using data from NHANES, which includes a series of c
 nationally representative health examination surveys. Data are collected from a
 representative sample of the civilian noninstitutionalized U.S. population, by in-home personal
 interviews and physical examinations.
+
+**Data**\
+A representative sample includes 743 Americans older than 17 years. 400 observations were
+randomly selected from the data and this set is going to be referred to as train data. The rest of
+the data will be used as a test set (343 observations).
+
+**Model Violations/Diagnostics**\
+According to Cook’s Distance, there was no influential observation in the train data. However,
+when used DFFITS and DFBETAS, there were some influential observations, so the common influential observations detected both by DFFITS and DFBETAS were excluded from the train data. The updated train data that now has 387 observations is going to be used for variable selection.
