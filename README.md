@@ -53,7 +53,7 @@ of a model including ‘SmokeNow’.
 ![](https://github.com/hb-racheloh/systolic_blood_pressure/blob/main/Cross-Validation%20calibration%20with%20LASSO.jpg)
 As you can see from the graphs above, for AIC based, the line is not as close to the 45-degree line as the ones for BIC and LASSO based, which again conveys that including ‘Age’ as the only predictor is the best option.
 
-**Results**\
+## Results
 We are going to see the summary table for two models, the first one (left) with two predictors,
 age and current smoking (SmokeNow), and the second one (right) with just one predictor, age.\
 For the first model (two predictors), the following hypotheses are tested:\
@@ -72,3 +72,11 @@ association between BPSysAve and Age is rejected (t = 11.18, df = 385, p-value <
 we conclude that there is a linear association between SBP and age. These results once again
 convey that it is a suitable choice to determine the final model with just one predictor, age, and
 claim that SmokeNow has very little or no relationship with SBP.
+
+**Goodness of Final Model**\
+The final model fitting is just the first part of the story for regression analysis since this is all
+based on certain assumptions:\
+1. Independence: Y is independent of errors.\
+2. Linearity: The relationship between X and Y is linear.\
+3. Homoscedasticity: The variance of residual is the same for any value of X.\
+4. Normality: For any fixed value of X, Y is normally distributed.
