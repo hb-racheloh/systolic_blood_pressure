@@ -58,4 +58,5 @@ We are going to see the summary table for two models, the first one (left) with 
 age and current smoking (SmokeNow), and the second one (right) with just one predictor, age.\
 For the first model (two predictors), the following hypotheses are tested:\
 • H0: There is no linear association between BPSysAve and Age and SmokeNow.\
-• Ha: There is a linear association between BPSysAve and Age and SmokeNow.
+• Ha: There is a linear association between BPSysAve and Age and SmokeNow.\
+![](https://github.com/hb-racheloh/systolic_blood_pressure/blob/main/Predictors.jpg)
