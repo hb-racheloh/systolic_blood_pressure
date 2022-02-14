@@ -55,8 +55,7 @@ As you can see from the graphs above, for AIC based, the line is not as close to
 
 **Results**\
 We are going to see the summary table for two models, the first one (left) with two predictors,
-age and current smoking (SmokeNow), and the second one (right) with just one predictor, age.
-QUANTITATIVE RESEARCH
-For the first model (two predictors), the following hypotheses are tested:
-• H0: There is no linear association between BPSysAve and Age and SmokeNow.
+age and current smoking (SmokeNow), and the second one (right) with just one predictor, age.\
+For the first model (two predictors), the following hypotheses are tested:\
+• H0: There is no linear association between BPSysAve and Age and SmokeNow.\
 • Ha: There is a linear association between BPSysAve and Age and SmokeNow.
