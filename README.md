@@ -80,3 +80,6 @@ based on certain assumptions:
 2. Linearity: The relationship between X and Y is linear.
 3. Homoscedasticity: The variance of residual is the same for any value of X.
 4. Normality: For any fixed value of X, Y is normally distributed.
+
+
+## Read this(https://github.com/hb-racheloh/systolic_blood_pressure/blob/main/Systolic%20Blood%20Pressure%20Report.pdf)
