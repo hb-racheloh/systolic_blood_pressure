@@ -51,3 +51,12 @@ of a model including ‘SmokeNow’.
 ![](https://github.com/hb-racheloh/systolic_blood_pressure/blob/main/Cross-Validation%20calibration%20with%20AIC.jpg)
 ![](https://github.com/hb-racheloh/systolic_blood_pressure/blob/main/Cross-Validation%20calibration%20with%20BIC.jpg)
 ![](https://github.com/hb-racheloh/systolic_blood_pressure/blob/main/Cross-Validation%20calibration%20with%20LASSO.jpg)
+As you can see from the graphs above, for AIC based, the line is not as close to the 45-degree line as the ones for BIC and LASSO based, which again conveys that including ‘Age’ as the only predictor is the best option.
+
+**Results**\
+We are going to see the summary table for two models, the first one (left) with two predictors,
+age and current smoking (SmokeNow), and the second one (right) with just one predictor, age.
+QUANTITATIVE RESEARCH
+For the first model (two predictors), the following hypotheses are tested:
+• H0: There is no linear association between BPSysAve and Age and SmokeNow.
+• Ha: There is a linear association between BPSysAve and Age and SmokeNow.
