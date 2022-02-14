@@ -20,7 +20,7 @@ and SBP in adults in the U.S.
 
 ## Methods
 
-**Study Population**
+**Study Population**\
 This analysis was conducted using data from NHANES, which includes a series of crosssectional
 nationally representative health examination surveys. Data are collected from a
 representative sample of the civilian noninstitutionalized U.S. population, by in-home personal
