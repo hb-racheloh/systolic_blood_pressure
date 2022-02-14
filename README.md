@@ -65,7 +65,7 @@ For the first model (two predictors), the following hypotheses are tested:\
 by 0.49.\
 • When testing the null hypothesis for SmokeNow, we fail to reject the null hypothesis (t =
 -0.09, df = 384, p-value = 0.930). For a one-unit increase in SmokeNow, on average,
-BPSysAve decreases by 0.14.\
+BPSysAve decreases by 0.14.
 
 However, for the second model (one predictor), the null hypothesis that there is no linear
 association between BPSysAve and Age is rejected (t = 11.18, df = 385, p-value < 0.001). Thus,
