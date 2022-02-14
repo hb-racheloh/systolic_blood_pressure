@@ -49,3 +49,5 @@ of a model including ‘SmokeNow’.
 **Model Validation**\
 10-fold cross validation and prediction performance of AIC, BIC and LASSO based selection was done. The prediction error using the test data was 232.7677 for AIC and 224.7722 for both BIC and LASSO. The lowest prediction error value among these was 224.7722, which is from BIC and LASSO that selected ‘Age’ as the only predictor.\
 ![](https://github.com/hb-racheloh/systolic_blood_pressure/blob/main/Cross-Validation%20calibration%20with%20AIC.jpg)
+![](https://github.com/hb-racheloh/systolic_blood_pressure/blob/main/Cross-Validation%20calibration%20with%20BIC.jpg)
+
