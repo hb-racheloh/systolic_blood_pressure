@@ -10,7 +10,6 @@ problem around the world and the leading risk factor for global disease burden, 
 half a million deaths in the United States in 2017.2 Therefore, it is important to know what
 causes high SBP.
 
-\
 
 On average, SBP rises with age.3 While a certain amount of blood pressure increase is
 unavoidable as we age, blood pressure health can still be maintained by following the same
