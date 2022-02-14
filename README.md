@@ -60,3 +60,15 @@ For the first model (two predictors), the following hypotheses are tested:\
 • H0: There is no linear association between BPSysAve and Age and SmokeNow.\
 • Ha: There is a linear association between BPSysAve and Age and SmokeNow.\
 ![](https://github.com/hb-racheloh/systolic_blood_pressure/blob/main/Predictors.jpg)
+• When testing the null hypothesis for Age, we reject the null hypothesis (t = 10.50, df =
+384, p-value < 0.001). For a one-unit increase in Age, on average, BPSysAve increases
+by 0.49.\
+• When testing the null hypothesis for SmokeNow, we fail to reject the null hypothesis (t =
+-0.09, df = 384, p-value = 0.930). For a one-unit increase in SmokeNow, on average,
+BPSysAve decreases by 0.14.\
+
+However, for the second model (one predictor), the null hypothesis that there is no linear
+association between BPSysAve and Age is rejected (t = 11.18, df = 385, p-value < 0.001). Thus,
+we conclude that there is a linear association between SBP and age. These results once again
+convey that it is a suitable choice to determine the final model with just one predictor, age, and
+claim that SmokeNow has very little or no relationship with SBP.
