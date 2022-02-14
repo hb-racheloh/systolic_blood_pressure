@@ -34,3 +34,16 @@ the data will be used as a test set (343 observations).
 **Model Violations/Diagnostics**\
 According to Cook’s Distance, there was no influential observation in the train data. However,
 when used DFFITS and DFBETAS, there were some influential observations, so the common influential observations detected both by DFFITS and DFBETAS were excluded from the train data. The updated train data that now has 387 observations is going to be used for variable selection.
+
+**Variable Selection**\
+Variable selection based on AIC selected three predictors, ‘Age’, ‘Race3’ and ‘MaritalStatus’.
+For BIC and LASSO, only one variable, ‘Age’ was selected. Although we are mainly interested
+in the effect of ‘SmokeNow’ on ‘BPSysAve’, this variable was not selected in any of the
+methods above. In order to check the relationship between ‘SmokeNow’ and ‘BPSysAve’, we
+first have to figure out if we can fit a Simple Linear Regression model by checking the
+correlation between ‘SmokeNow’ and other variables. However, ‘SmokeNow’ had high
+correlation with some variables such as ‘EducationSome’, so SLR could not be progressed.
+Hence, the final model would only include ‘Age’ as a predictor, but we will also see the results
+of a model including ‘SmokeNow’.
+
+**Model Validation**\
