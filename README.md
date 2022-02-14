@@ -17,3 +17,11 @@ lifestyle recommendations as younger people. However, the relationship between s
 BP are equivocal, as some studies show a positive association while others show that there is no
 relationship. In this study, we are going to investigate the association between age and smoking
 and SBP in adults in the U.S.
+
+## Methods
+
+**Study Population**
+This analysis was conducted using data from NHANES, which includes a series of crosssectional
+nationally representative health examination surveys. Data are collected from a
+representative sample of the civilian noninstitutionalized U.S. population, by in-home personal
+interviews and physical examinations.
